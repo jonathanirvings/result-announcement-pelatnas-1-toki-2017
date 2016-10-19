@@ -1,0 +1,20 @@
+/* CSS Document */
+body {
+	background-color: #000000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	color: #FFFFFF;
+	padding: 10%
+}
+a:link {
+	color: #FFFFFF;
+}
+a:visited {
+	color: #FFFFFF;
+}
+h {
+	font-size: 30px;
+}
+body,td,th {
+	font-size: 20px;
+}
